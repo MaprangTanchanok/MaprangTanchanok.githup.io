@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
 <body>
 
 <h1>About Me</h1>
@@ -36,5 +42,6 @@
   <li>Dent Camp</li>
   <li>Political Camp</li>
  </ul>
-  
-</body>
+  <button type="button" class="btn btn-danger">Danger</button>  
+  </body>
+  </html>
